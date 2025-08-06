@@ -17,7 +17,7 @@ flowchart TD
 
     AC --> P[progress.md]
 
-### Core Files (Required)
+### Core Files 
 
 1. `projectbrief.md`
    - Foundation document that shapes all other files

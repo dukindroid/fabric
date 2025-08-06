@@ -6,19 +6,12 @@ Implementación del [prompt personalizado Telos](https://github.com/danielmiessl
 
 ## Características Principales
 
-## Preferencias Técnicas
+El archivo telos.md, la porción medular de este proyecto. Este debe hacer referencia a los archivos de salida de los patrones de la herramienta fabric que se han utilizado (_carpeta pat_results_)
+
+En el directorio memory_bank encontramos los archivos de memoria de la herramienta Cline.
 
 ### Tecnologías Requeridas
 
-### Herramientas de Desarrollo
-- **Asistente de IA**: Claude Code (Cline) para soporte de desarrollo
-- **Documentación**: Servidor MCP Context7 para acceso a la documentación de Odoo
-- **Integración**: Servidores MCP personalizados para capacidades mejoradas
-- **Control de Versiones**: Git para el seguimiento de la configuración y los módulos personalizados
-
-### Requisitos Específicos
-- **Importación de Datos**: Carga inicial de datos basada en CSV para empleados, flota e inventario
-- **Soporte Móvil**: Interfaz web responsiva (no se requiere una aplicación móvil nativa inicialmente)
-- **Rendimiento**: Soporte para 40 usuarios concurrentes con tiempos de respuesta inferiores a 2 segundos
-- **Seguridad**: Control de acceso basado en roles utilizando la autenticación incorporada de Odoo
-- **Despliegue**: Instalación local/en las instalaciones para la seguridad de los datos
+- Cline
+- Fabric
+- Telos File
