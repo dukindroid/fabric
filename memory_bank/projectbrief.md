@@ -6,7 +6,9 @@ Implementación del [prompt personalizado Telos](https://github.com/danielmiessl
 
 ## Características Principales
 
-El archivo telos.md, la porción medular de este proyecto. Este debe hacer referencia a los archivos de salida de los patrones de la herramienta fabric que se han utilizado (_carpeta pat_results_)
+El archivo README.md en este directorio es pertinente a la herramienta Cline para la configuración y mantenimiento de su banco de memoria. Hace relación a varios archivos necesarios solamente para mejorar el contexto de Cline sobre este proyecto.
+
+El archivo telos.md en el directorio raiz, es la parte medular de este proyecto. Este debe hacer referencia a los archivos de salida de los patrones de la herramienta fabric que se han utilizado (_carpeta pat_results_)
 
 En el directorio memory_bank encontramos los archivos de memoria de la herramienta Cline.
 

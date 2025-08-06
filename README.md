@@ -15,11 +15,13 @@ This project explores the capabilities of the **Fabric** tool through the implem
 - **unique_patterns.txt**: Text file for storing unique pattern identifiers.
 
 ## Key Files
+
 - `telos.md`: Central to the project's prompt customization.
 - `projectbrief.md`: Explains the project's goals and dependencies.
 - `unique_patterns.txt`: Tracks patterns analyzed by Fabric.
 
 ## Technologies
+
 - **Cline**: Memory and pattern analysis tool.
 - **Fabric**: Pattern recognition and analysis framework.
 - **Telos**: Custom prompt implementation reference.
