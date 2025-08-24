@@ -15,12 +15,16 @@ Aquí se documenta el camino y avance que ha tenido el proyecto:
 
 En esta sección se agregarán posteriores avances.
 
+Jueves, 7 de Agosto
+
+El plan es detallar mas mi historia para que no me regañe tanto, demostrando el nivel de conocimientos que tengo en sistemas y electrónica.
+
 ## Objetivos de alta prioridad
 
 - Entregar de manera prólija un reporte de los servicios de las unidades de la mina, de ser posible incluso algún tipo de desarrollo web
 - Terminar el reporte de producción mediante IA y whatsapp (folder mcp_whatsapp)
 - Profundizar la investigación sobre presupuestos y formular uno a partir del desarrollo y la integración
-- ✔ Preguntarle a cline como sería un bash para guardar un stdin a un archivo específico. Con esto último guardaríamos los resultados de la herramienta fabric a un archivo .md definido mediante la linea de comandos 
+- ✔ Preguntarle a cline como sería un bash para guardar un stdin a un archivo específico. Con esto último guardaríamos los resultados de la herramienta fabric a un archivo .md definido mediante la linea de comandos
 
 ## Objetivos de baja prioridad
 
