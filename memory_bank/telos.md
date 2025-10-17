@@ -9,6 +9,7 @@ The conceptual path is Problems -> Mission -> (Narratives) -> Goals -> Challenge
 Other sections that aren't those core sections are additional context to support them.
 
 ***
+***
 
 ## HISTORY
 
@@ -85,6 +86,7 @@ Other sections that aren't those core sections are additional context to support
 - After one year and four months this friend fires me after I state publicly that his mining company is not serious. He takes this as a direct atack to his ego and after all that my laboral experience I should know better when to keep my mouth shut. But I didn't. He fires me and now we are here writing a Telos file.
 - As a final pointer, my [last used CV](/Resume-Javier-Gutiérrez-Herrera.pdf) was adjoined to this repository.
 
+***
 ***
 
 ## PROBLEMS
