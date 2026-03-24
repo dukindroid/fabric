@@ -1,0 +1,14 @@
+#header.navbar {
+    margin-bottom: 0;
+}
+
+#header.slightlylimitwidth {
+    margin: 0 auto;
+}
+
+@media only screen and (max-width: 767px) {
+    /* On small screens, this "unfixes" the fixed header. */
+    .navbar-fixed-top {
+        position: relative;
+    }
+}

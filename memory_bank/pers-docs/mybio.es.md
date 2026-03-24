@@ -72,6 +72,3 @@
 - Como puntero final, mi [último CV utilizado](/Resume-Javier-Gutiérrez-Herrera.pdf) se adjuntó a este repositorio.
 
 ***
-***
-
-## PROBLEMAS

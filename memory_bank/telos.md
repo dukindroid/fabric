@@ -94,3 +94,6 @@ Other sections that aren't those core sections are additional context to support
 - I've kept through the years a blog, that serves somehow as a journal. [It's here](https://dukintosh.blogspot.com/), and it's posts were scraped and saved in the file ~/.config/fabric/myblog/Blogger/Blogs/feed.atom for easier access.
 - This file was first edited on August 6, 2025, 7:48 AM
 - Last CV added - August 6, 2025, 8:12 AM
+
+
+https://carrera.ternium.com/job/Colima-Ayudantes-GeneralesGruistasT%C3%A9cnicos-de-Mantenimiento-Colima/1353185500/

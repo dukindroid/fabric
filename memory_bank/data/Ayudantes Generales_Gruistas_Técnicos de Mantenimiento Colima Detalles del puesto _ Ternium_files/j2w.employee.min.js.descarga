@@ -1,0 +1,2 @@
+var j2w=j2w||{};j2w.employee={login:function(b){b.preventDefault();$.ajax({type:"GET",url:"/services/samlIdp/authenticateViaSapIdp",error:function(a,b,c){j2w.Util.recoverFromAjaxError(a)},success:function(a){a&&(document.location.href=a)}})},logout:function(b){b.preventDefault();$.ajax({type:"GET",url:"/services/samlIdp/rmkIntiatedLogout",error:function(a,b,c){j2w.Util.recoverFromAjaxError(a)},success:function(a){a&&(document.location.href=a)}})}};
+$(function(){$(".empLoginLink").on("click",j2w.employee.login);$(".empLogoutLink").on("click",j2w.employee.logout)});
