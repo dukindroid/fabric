@@ -25,13 +25,7 @@ flowchart TD
    - Defines core requirements and goals
    - Source of truth for project scope
 
-2. `productContext.md`
-   - Why this project exists
-   - Problems it solves
-   - How it should work
-   - User experience goals
-
-3. `activeContext.md`
+2. `activeContext.md`
    - Current work focus
    - Recent changes
    - Next steps
@@ -39,21 +33,7 @@ flowchart TD
    - Important patterns and preferences
    - Learnings and project insights
 
-4. `systemPatterns.md`
-   - System architecture
-   - Key technical decisions
-   - Design patterns in use
-   - Component relationships
-   - Critical implementation paths
-
-5. `techContext.md`
-   - Technologies used
-   - Development setup
-   - Technical constraints
-   - Dependencies
-   - Tool usage patterns
-
-6. `progress.md`
+3. `progress.md`
    - What works
    - What's left to build
    - Current status
