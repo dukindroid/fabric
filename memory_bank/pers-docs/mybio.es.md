@@ -1,4 +1,6 @@
-### Primeros años: 1983 - 1986
+# Javier Gutiérrez Herrera's Bio
+
+## Primeros años: 1983 - 1986
 
 - Nací el 3 de febrero de 1983 en Guadalajara, Jalisco, México, primer hijo de una familia de clase media con un padre que se ganaba la vida en redes de radio y computadoras y una madre maestra de escuela.
 - A una edad temprana (3 años) necesité una cirugía de extracción de piel, para eliminar un lunar carcinógeno en mi brazo. Esto me dejó traumatizado durante aproximadamente tres años, en los que fui incapaz de soportar la presencia de tijeras. Luego, durante mi infancia, recuerdo este rasgo (la cicatriz en mi brazo) como un punto focal para que otros niños me acosaran o me hicieran a un lado, así que aparentemente decidí mantenerme al margen de los grandes grupos de socialización para mantenerme a salvo. Muchos años después, como adulto de 33 años, entendí que esta era una idea falsa implantada por mí mismo, ya que la mayoría de las veces las cicatrices no son una característica que haga que las personas no sean deseadas o acosadas, por el contrario, les da individualidad y los distingue.
@@ -63,12 +65,31 @@
 - Después de un año en la gasolinera, un viejo amigo de la escuela secundaria me invita a trabajar en su empresa minera, como almacenista.
 - Después de muchas decepciones con mi carrera original de TI, decido dejarla a un lado y abrazar lo que Dios tenga que enviarme.
 
-### Operaciones mineras 2024-
+### Operaciones mineras 2024-2026
 
-- Esto resulta ser la actitud correcta, ya que me vuelvo experto en soldadura, motores diésel, maquinaria pesada y muchos otros temas que me parecían tan lejanos hace solo unos años.
-- Este trabajo se convierte en el trabajo más satisfactorio y mejor pagado que nunca he tenido.
+- A pesar de ser un salto bastante lejano en cuanto a lo que anteriormente venía haciendo, me vino muy bien el cambio, y disfruté mucho de aprender sobre temas tan variados como soldadura, motores diésel, maquinaria pesada y muchos otros temas que me parecían tan lejanos hace solo unos años.
+- Este trabajo se convierte en el trabajo más satisfactorio y mejor pagado que nunca he tenido. Mis labores son bastante variadas, pero se pueden resumir como de planeación de servicios de flotilla diesel y asistente de mecánica, teniendo que cubrir en ocasiones como asistente de operador de maquinaria pesada
 - Continúo programando como hobby, con el microcontrolador esp32 y con la plataforma ERP Odoo, intentando usarla para gestionar el inventario de mi almacén.
 - Después de un año y cuatro meses, este amigo me despide después de que declaré públicamente que su empresa minera no es seria. Lo toma como un ataque directo a su ego y, después de toda mi experiencia laboral, debería saber mejor cuándo mantener la boca cerrada. Pero no lo hice. Me despide y ahora estamos aquí escribiendo un archivo Telos.
 - Como puntero final, mi [último CV utilizado](/Resume-Javier-Gutiérrez-Herrera.pdf) se adjuntó a este repositorio.
 
-***
+### Operación ferretera (Feb, '26)
+
+- Entro en febrero a trabajar como asistente de almacén a la empresa Surtidora ferretera, en el área de pisos
+- Aprendo y practico el correcto uso del montacargas para la carga y descarga de mercancía de anaqueles
+- Asisto en actividades diarias de mantenimiento de almacén (inventarios, flejeo, limpieza, etc.)
+- Solamente duro un mes aquí porque en marzo logro comunicarme con mi siguiente empleador después de meses de estarlo buscando:
+
+### Language (Lame) Solutions (Abr-Jun '26)
+
+- Empresa de interpretación médica inglés-español, cuando colé la segunda entrevista sentí que mi vida por fín ya estaba resuelta
+- Se trataba de un trabajo tranquilo, sencillo, bien pagado, desde la comodidad de mi casa
+- Me despidieron después de tres revisiones de calidad fallidas y una semana de reentrenamiento. No cubrí expectativas por no saber adherirme al pie de la letra a los lineamientos y prodedimientos establecidos por LLS
+- Disfruté mucho volver a escuchar a puerto riqueños y cubanos
+- Comprendí que mi nivel de inglés realmente es bastante bueno
+- También aprendí que tengo que poner mucha más atención en las "reglas del juego" de las empresas
+
+### Freelancing (Jul- )
+
+- He estado ayudando en proyectos de albañilería como chalán
+- He estado desarrollando un proyecto de punto de venta para una pasteleria

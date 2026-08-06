@@ -8,8 +8,7 @@ The conceptual path is Problems -> Mission -> (Narratives) -> Goals -> Challenge
 
 Other sections that aren't those core sections are additional context to support them.
 
-***
-
+---
 
 ## PROBLEMS
 
@@ -19,14 +18,30 @@ Other sections that aren't those core sections are additional context to support
 
 - M1: Become a successful human being
 - M2: Learn valuable AI skills that could help me self regulate or achieve discipline feats.
+- M3: Actually, let's scrap M1 altogether as right now that "succesful" vibe (or tone, I don't know exactly where to point that) does not resonate with me at this moment, and feels more like an unnecesary burden than a benefitial goal. I think what I meant originally when stating M1 was to achieve a purposeful, meaningful life measured by tangible benefitial impact on my community. Nice words aside, I don't want to die feeling like my human potential just went straight to waste.
 
+## NARRATIVES (current)
+
+- N1: Understand that as a person with severe disfunctional high executive functions, I must be brought to the awareness, all of the time, that _imagining_ something holds little to no relation to _actually seeing_ such imagination brought to reality.
 
 ## NARRATIVES (deprecated, should update)
 
 - N1: I think that all my experience on web development, UI design, IT support, sales person, english translator, customer service representant, amounts to a particular, unique profile that when adding my just aquired experience as mechanic and welder assistant, surmounts to a skilled field engineer capable of managing many positions
 - N2: Many of the jobs I had were about implementing CRM or ERP tools in small or medium bussiness. I feel like this is still an area of oportunity, even if I'm already too old to become a successful develover, according to current trends in this market.
 
-## GOALS (review)
+## GOALS (current)
+
+- G1: Keep working on my recently aquired disciplines (keeping my house tidy, excercise, money spending, self-care) but adding some sort of tab record, just to ensure that I don't start going stray from these gains.
+
+- G2: Get AI to help me to get a job:
+
+      a) Update my resume
+      b) Keep a track of all the job offers I'm posting to
+      c) Get AI to help me identify and chase the best job offers according to my current abilities
+
+- G3: Stop wasting time and DO THE THING! Keep procrastination at bay, at all costs.
+
+## GOALS (deprecated as of August, 2026)
 
 - G1: Having a personal emergency savings fund of at least one week of salary before 2026
 - G2: Paint my house and getting it done before october 202
@@ -94,6 +109,5 @@ Other sections that aren't those core sections are additional context to support
 - I've kept through the years a blog, that serves somehow as a journal. [It's here](https://dukintosh.blogspot.com/), and it's posts were scraped and saved in the file ~/.config/fabric/myblog/Blogger/Blogs/feed.atom for easier access.
 - This file was first edited on August 6, 2025, 7:48 AM
 - Last CV added - August 6, 2025, 8:12 AM
-
 
 https://carrera.ternium.com/job/Colima-Ayudantes-GeneralesGruistasT%C3%A9cnicos-de-Mantenimiento-Colima/1353185500/

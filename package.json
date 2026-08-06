@@ -1,0 +1,21 @@
+{
+  "name": "fabric",
+  "version": "1.0.0",
+  "description": "This project explores the capabilities of the **Fabric** tool through the implementation of a [custom Telos prompt](https://github.com/danielmiessler/Telos). The core reference file is [telos.md](telos.md), which contains the foundational prompts and configurations. Outputs from Fabric pattern analysis are stored in the [pat_results](pat_results/) directory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dukindroid/fabric.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/dukindroid/fabric/issues"
+  },
+  "homepage": "https://github.com/dukindroid/fabric#readme"
+}

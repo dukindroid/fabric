@@ -6,5 +6,6 @@
 /patterns
 /sessions
 /strategies
+/node_modules
 fabric
 fabric-linux-amd64
