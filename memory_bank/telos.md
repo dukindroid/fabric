@@ -111,3 +111,39 @@ Other sections that aren't those core sections are additional context to support
 - Last CV added - August 6, 2025, 8:12 AM
 
 https://carrera.ternium.com/job/Colima-Ayudantes-GeneralesGruistasT%C3%A9cnicos-de-Mantenimiento-Colima/1353185500/
+
+## Estrategia de Rescate y Estabilidad Financiera
+
+**Contexto Base:**
+* Ingreso mensual (Despachador): $8,640.00 MXN
+* Apoyo en especie (Vivienda, luz, agua): Cubierto por red de apoyo familiar.
+* Transporte: Bicicleta (sin costo fijo).
+* Gastos fijos personales: $2,680.00 MXN ($450 Telefonía, $230 Celular, $2,000 Despensa).
+* Margen de maniobra mensual: $5,960.00 MXN.
+
+**Fase 1: Inyección de Capital (Fondo Afore - $16,000.00 MXN)**
+El objetivo de este capital es eliminar la toxicidad financiera (tasas altas, acoso, fricción social) y preparar el terreno.
+| Entidad | Acción | Monto Estimado |
+| :--- | :--- | :--- |
+| **Baubap** | Liquidación total | $1,009.00 |
+| **MercadoPago** | Liquidación total | $804.30 |
+| **ALVOS** | Liquidación total | $495.00 |
+| **DiDi Card** | Liquidación total | $5,514.31 |
+| **Don Martin** | Liquidación total (Prioridad social) | $1,500.00 |
+| **INVEX** | Liquidación mediante negociación (Quita) | ~$2,000.00 |
+| **Pago Funeraria** | Abono a capital con el restante del Afore | ~$4,677.39 |
+| **TOTAL AFORE** | **Fondo agotado** | **$16,000.00** |
+
+**Fase 2: Presupuesto de Estabilización (Mes 1)**
+El primer mes posterior a la inyección del Afore se utiliza para erradicar la deuda restante y blindar la seguridad del transporte.
+| Concepto | Acción | Monto Asignado |
+| :--- | :--- | :--- |
+| **AvaFin** | Liquidación total (Pago puntual) | $2,194.26 |
+| **Pago Funeraria** | Liquidación del remanente final | ~$822.61 |
+| **Transporte** | Inversión en seguridad (faro y asiento bici) | $1,000.00 |
+| **Fondo de Emergencia** | Semilla inicial del fondo | $1,943.13 |
+
+**Fase 3: Mantenimiento (Mes 2 en adelante)**
+* Deuda activa: $0.00.
+* Regla de oro 1: Evitar a toda costa reparadoras de crédito que cobran comisiones por negociaciones que se pueden realizar de manera directa.
+* Regla de oro 2: Todo excedente del margen de maniobra ($5,960.00 MXN) debe ir al fondo de emergencia hasta acumular 3 meses de sueldo ($25,920.00 MXN) antes de expandir el estilo de vida.
