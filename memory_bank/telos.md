@@ -147,3 +147,20 @@ El primer mes posterior a la inyección del Afore se utiliza para erradicar la d
 * Deuda activa: $0.00.
 * Regla de oro 1: Evitar a toda costa reparadoras de crédito que cobran comisiones por negociaciones que se pueden realizar de manera directa.
 * Regla de oro 2: Todo excedente del margen de maniobra ($5,960.00 MXN) debe ir al fondo de emergencia hasta acumular 3 meses de sueldo ($25,920.00 MXN) antes de expandir el estilo de vida.
+
+## Plan de Ejecución Semanal (Mes 1: Post-Afore)
+
+**Presupuesto Semanal Base:**
+* Ingreso: $2,160.00 MXN
+* Gastos Fijos (Despensa + Servicios): $670.00 MXN
+* Disponible para el plan: **$1,490.00 MXN**
+
+| Semana | Flujo Disponible | Acción Estratégica | Restante |
+| :--- | :--- | :--- | :--- |
+| **Semana 1** | $1,490.00 | **Liquidar Funeraria:** Pagar los $822.61 finales.<br>**Ahorro AvaFin:** Guardar $667.39 para la cuota. | $0.00 |
+| **Semana 2** | $1,490.00 | **Ahorro AvaFin:** Guardar los $1,490.00 íntegros.<br>*(Acumulado AvaFin: $2,157.39)* | $0.00 |
+| **Semana 3** | $1,490.00 | **Liquidar AvaFin:** Pagar los $36.87 faltantes.<br>**Inversión Bici:** Comprar faro y asiento ($1,000.00).<br>**Fondo Emergencia:** Iniciar fondo con $453.13. | $0.00 |
+| **Semana 4** | $1,490.00 | **Fondo Emergencia:** Abonar los $1,490.00 íntegros.<br>*(Acumulado Fondo: $1,943.13)* | $0.00 |
+
+## Rutina de Mantenimiento (A partir de la Semana 5)
+Cada sábado por la noche, tras separar los $670 de despensa y servicios, los $1,490 restantes se transfieren automáticamente al Fondo de Emergencia hasta alcanzar la meta de $25,920 MXN (3 meses de sueldo).
