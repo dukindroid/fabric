@@ -1,1 +1,0 @@
-A ver creoq ue este es un buen lugar para contar mi triste historia, después de cuatro meses con LLS

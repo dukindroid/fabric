@@ -4,7 +4,6 @@
 
 Aquí se documenta el camino y avance que ha tenido el proyecto:
 
-
 ## Objetivos de alta prioridad
 
 - Establecer reglas claras para que Cline se desempeñe como un coach experto en redacción de curriculums, con un panorama preciso de mi carrera laboral y con la capacidad de ayudarme a generar nuevos resumés que permitan adecuar la presentación de mis habilidades en función de relación con la vacante postulada.
